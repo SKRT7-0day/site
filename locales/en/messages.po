@@ -7,55 +7,42 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "header.subtitle"
-msgstr "please don't say just hello in chat"
+msgstr "من فضلك لا تقل مرحباً فقط في الدردشة"
 
 msgid "header.introduction"
-msgstr "Imagine calling someone on the phone, going _hello!_ then putting them on hold... 🤦‍♀️"
+msgstr "تخيل أنك تتصل بشخص ما عبر الهاتف، وتقول مرحباً! ثم تضعه على الانتظار... 🤦‍♀️"
 
 msgid "example.character.neutral.name"
-msgstr "Tim"
+msgstr "znji"
 
 msgid "example.character.neutral.avatar-description"
-msgstr "Tim's Slack avatar"
+msgstr "znji"
 
 msgid "example.character.bad.name"
-msgstr "Keith"
+msgstr "b3wida"
 
 msgid "example.character.bad.avatar-description"
-msgstr "Keith's Slack avatar"
+msgstr "B3wida"
 
 msgid "example.character.good.name"
-msgstr "Dawn"
+msgstr "Badr"
 
 msgid "example.character.good.avatar-description"
-msgstr "Dawn's Slack avatar"
+msgstr "badr"
 
 msgid "example.bad.title"
-msgstr "❌ Don't do this"
+msgstr "❌لا تفعل هذا"
 
 # the placeholder is the year, i.e. "2022"
 msgid "example.bad.body"
 msgstr ""
-"Note that Keith could have got his answer minutes sooner, and needn't have kept Tim waiting. In fact, Tim could have started thinking about the question right away!\n"
-"\n"
-"People who do this are generally trying to be polite by not jumping right into the request, like one would in person or on the phone - and that's great! But it's %1$s and chat is neither of those things. For most people, typing is much slower than talking. So despite best intentions, **you're actually just making the other person wait** for you to phrase your question, which is lost productivity (and kinda annoying).\n"
-"\n"
-"The same goes for:\n"
-"\n"
-"- \"Hello, are you around?\"\n"
-"- \"hi sophie - quick question.\"\n"
-"- \"You got a sec?\"\n"
-"- \"yt?\"\n"
-"- \"ping\"\n"
-"- etc.\n"
-"\n"
-"**Just ask the question!** 😫\n"
+"لاحظ أن b3wida كان بإمكانه الحصول على إجابته قبل دقائق، ولم يكن مضطراً لجعل znji ينتظر. في الواقع، كان بإمكان znji الإجابة على السؤال فور رؤيته.\n\nالناس الذين يفعلون هذا يحاولون عادةً أن يكونوا مهذبين بعدم الدخول في الطلب مباشرة، تماماً كما يفعلون في الواقع، لكن الدردشة تختلف.\n\nفقط اطرح السؤال! 😟"
 
 msgid "example.bad.message1.timestamp"
 msgstr "2:15 PM"
 
 msgid "example.bad.message1.body"
-msgstr "hi"
+msgstr "مرحبا"
 
 msgid "example.bad.reply1.timestamp"
 msgstr "2:19 PM"
@@ -68,63 +55,50 @@ msgstr "2:20 PM"
 
 # the typo here is intentional - please maintain a similar unprofessional tone!
 msgid "example.bad.message2.body"
-msgstr "what time was taht thing again?"
+msgstr "عذراً، لقد نسيت ما الذي كنت أريد قوله؟"
 
 msgid "example.bad.reply2.timestamp"
 msgstr "2:20 PM"
 
 msgid "example.bad.reply2.body"
-msgstr "oh - 3:30 mate"
+msgstr "أوه - الساعة الثالثة والنصف يا صديقي"
 
 msgid "example.good.title"
-msgstr "✅ Instead try this"
+msgstr "✅ بدلاً من ذلك، جرب هذه الطريقة"
 
 msgid "example.good.body"
 msgstr ""
-"If you feel it's a bit brusque to simply say \"Hi\" and ask the question, **you can still preface your message with as many pleasantries as you see fit.**\n"
-"\n"
-"For example:\n"
-"\n"
-"- \"hey man, what's up? also, any idea when that thing's due?\"\n"
-"- \"Hi there! Hope you're well. I'm after the latest deck, when you get a sec :)\"\n"
-"- \"hey, if you're not busy, could you update those NFRs?\"\n"
-"- etc.\n"
-"\n"
-"It may seem trivial, but asking your question before getting that initial salutatory reply also allows for **asynchronous communication**. If the other party is away, and you leave before they come back, they can still answer your question, instead of just staring at a \"Hello\" and wondering what they missed.\n"
-"\n"
-"When done right - everyone's happy! 🎉\n"
+"إذا شعرت أن قول 'مرحباً' وطرح السؤال مباشرة أمر فظ، يمكنك دائماً تمهيد رسالتك ببعض العبارات اللطيفة.\n\nعلى سبيل المثال:\n'أهلاً، كيف حالك؟ أردت أن أسأل عن...'\n\nطرح السؤال قبل انتظار الرد يسمح بالتواصل الفعال والرد السريع. الجميع سيكون سعيداً! 🎉"
 
 msgid "example.good.message1.timestamp"
 msgstr "2:15 PM"
 
 msgid "example.good.message1.body"
-msgstr "Hiya! What time was that thing?"
+msgstr "أهلاً! في أي ساعة سيكون ذلك الموعد؟"
 
 msgid "example.good.reply1.timestamp"
 msgstr "2:15 PM"
 
 msgid "example.good.reply1.body"
-msgstr "hey, 3:30"
+msgstr "أهلاً، الساعة 3:30"
 
 msgid "example.good.message2.timestamp"
 msgstr "2:15 PM"
 
 # "Ta" is colloquial British(/Australian/etc) for "thanks"
 msgid "example.good.message2.body"
-msgstr "Ta - seeya then!"
+msgstr "شكرا لك"
 
 msgid "example.good.reply2.timestamp"
 msgstr "2:16 PM"
 
 msgid "example.good.reply2.body"
-msgstr "👌 np"
+msgstr "👌 العفو"
 
 msgid "footer.note"
-msgstr "This is kinda only half serious (kinda 👀) so please don't get [mad](https://www.youtube.com/watch?v=xzpndHtdl9A) at the person who sent you here."
-
+msgstr "هذا الموقع نصف جاد فقط (نوعاً ما 👀) لذا يرجى عدم الغضب متعصبش منا ههه"
 msgid "footer.warning"
-msgstr "That said, if you see this sites URL as someone's status/bio, be prepared to be ignored if you only say \"Hello!\""
-
+msgstr "ومع ذلك، إذا رأيت رابط هذا الموقع في ملف شخص ما، فتوقع أن يتم تجاهلك إذا اكتفيت بقول 'مرحباً' فقط!"
 msgid "footer.thanks"
 msgstr "Based on the wonderful [nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/). Avatars taken from *[The Office](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*. Open-source on [GitHub](https://github.com/nohello-net/site)."
 
